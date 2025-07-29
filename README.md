@@ -38,3 +38,4 @@ slideshow/
 * Add more slides by duplicating .image-slider blocks
 
 ## 📷 Demo Preview
+ https://sakthi4425.github.io/slideshow/
