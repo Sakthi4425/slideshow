@@ -11,14 +11,14 @@ A simple image slideshow web app built with **HTML**, **CSS**, and **JavaScript*
 - Easy to customize with local or remote images
 
 ## 📁 Project Structure
-<pre><code> ```slideshow/ 
+<pre><code> slideshow/ 
     ├── index.html 
     ├── styles.css 
     ├── script.js 
     └── images/ 
         ├── slide1.png 
         ├── slide2.png 
-        └── slide3.png
+        └── slide3.png </code></pre>
 
 ## 🛠️ How to Use
 
